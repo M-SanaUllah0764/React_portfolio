@@ -25,8 +25,12 @@
   "devDependencies": {
     "@types/react": "^18.2.38",
     "@types/react-dom": "^18.0.10",
+    "@types/stats": "^0.16.30",
+    "@types/three": "^0.158.3",
+    "@types/webxr": "^0.5.10",
     "@vitejs/plugin-react": "^3.1.0",
     "autoprefixer": "^10.4.13",
+    "meshoptimizer": "^0.20.0",
     "postcss": "^8.4.21",
     "tailwindcss": "^3.2.6",
     "vite": "^4.1.0"
